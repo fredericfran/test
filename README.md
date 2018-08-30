@@ -1,0 +1,2 @@
+# test
+testing golang installation
